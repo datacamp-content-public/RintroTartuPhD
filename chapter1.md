@@ -44,9 +44,9 @@ Make some budget calculations by vaeying the number of participants
 - Calculate the budget of the course with 15 participants and the course fee per participant, if the costs are divided equally between all
 
 `@hint`
--The first exercise is solved for you
--The second exercise is solved for you
--Add 20*(18+7) to the previous calculation
+- The first exercise is solved for you
+- The second exercise is solved for you
+- Add 20*(18+7) to the previous calculation
 - Fill gaps in the instruction by 15
 
 `@pre_exercise_code`
